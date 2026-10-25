@@ -62,7 +62,7 @@ df = load_mock_data()
 # Header Section
 st.title("🛡️ Wildlife Events Monitored")
 st.markdown(
-    "**Interim Project Prototype Dashboard** | Real-time vehicle telemetry,"
+    "**Prototype Dashboard** | Real-time vehicle telemetry,"
     " species detection logs, and highway crossing hotspots."
 )
 st.markdown("---")
