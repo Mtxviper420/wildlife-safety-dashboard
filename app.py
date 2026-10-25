@@ -60,7 +60,7 @@ def load_mock_data():
 df = load_mock_data()
 
 # Header Section
-st.title("🛡️ ML-Based Driver-Controlled Wildlife Deterrent System")
+st.title("🛡️ Wildlife Events Monitored")
 st.markdown(
     "**Interim Project Prototype Dashboard** | Real-time vehicle telemetry,"
     " species detection logs, and highway crossing hotspots."
